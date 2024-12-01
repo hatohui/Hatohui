@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hatohui&label=Profile%20views&color=0e75b6&style=flat-square" alt="hatohui" /> </p>
 
 - 🌱 I’m currently learning **Docker, Angular, .NET, Kubernetes, Django...**
-
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **hatohuidev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
