@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Always+Learning;Always+Building;Always+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Always+Learning+.+.+.;Always+Building+.+.+.;Always+Growing+.+.+." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -30,11 +30,12 @@
 
 ## 🚀 **Technologies & Tools**
 
+</br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,html,css,tailwind,nodejs,express,django,dotnet,spring,java,postgresql,mongodb,graphql,python,js,java,cpp,cs,bash,docker,kubernetes,githubactions,git,figma,linux,vscode" alt="Tech Stack" />
 </p>
 
-</br>
 
 
 ## 📊 **GitHub Stats**
