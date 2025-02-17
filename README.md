@@ -43,10 +43,6 @@
 
 </br>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hatohui&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hatohui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatohui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
