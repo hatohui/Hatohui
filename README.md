@@ -33,7 +33,7 @@
 </br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,html,css,tailwind,nodejs,express,django,dotnet,spring,java,postgresql,mongodb,graphql,python,js,java,cpp,cs,bash,docker,kubernetes,githubactions,git,figma,linux,vscode,aws" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,ts,html,css,tailwind,nodejs,express,django,dotnet,spring,java,postgresql,mongodb,graphql,python,js,cpp,cs,bash,docker,kubernetes,githubactions,git,figma,linux,vscode,aws" alt="Tech Stack" />
 </p>
 
 
