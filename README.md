@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <strong>🌱 Currently Learning:</strong> Docker 🐳 | Angular 🅰️ | .NET 🖥️ | Kubernetes ☸️ | Django 🐍
+  <strong>🌱 Currently Learning:</strong> Docker 🐳 | .NET 🖥️ | Kubernetes ☸️ 
 </p>
 
 
