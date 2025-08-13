@@ -1,11 +1,10 @@
-<h1 align="center">👋 Hi, I'm Tuyen</h1>
-<h3 align="center" style="font-weight: 400; color: #6c757d;">A passionate full stack developer from Vietnam</h3>
-
+<h1 align="center">☁️ Hi, I'm Tuyen</h1>
+<h3 align="center" style="font-weight: 400; color: #6c757d;">Cloud Engineer & DevOps Enthusiast from Vietnam</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hatohui&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Vietnamese-blue?style=flat-square" alt="Languages" />
-  <img src="https://img.shields.io/badge/💡-Always%20Learning-yellow?style=flat-square" alt="Always Learning" />
+  <img src="https://img.shields.io/badge/🚀-Building%20Reliable%20Cloud%20Systems-yellow?style=flat-square" alt="Always Learning" />
 </p>
 
 <p align="center">
@@ -15,27 +14,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Always+Learning+.+.+.;Always+Building+.+.+.;Always+Growing+.+.+." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Automating+Infrastructure;Optimizing+Cloud+Deployments;Scaling+Reliable+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <strong>🌱 Currently Learning:</strong> Docker 🐳 | .NET 🖥️ | Kubernetes ☸️ 
+  <strong>🌱 Currently Learning:</strong> AWS ☁️ | Terraform 🛠 | Ansible ⚙️ | Kubernetes ☸️
 </p>
-
-
 
 </br>
 
-
-
-## 🚀 **Technologies & Tools**
+## 🚀 **Cloud & DevOps Technologies**
 
 </br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,dotnet,postgresql,graphql,js,cs,bash,docker,kubernetes,githubactions,git,figma,vscode&perline=9" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,docker,kubernetes,githubactions,bash,linux,dotnet,nodejs,react,ts,postgresql,graphql,git,vscode&perline=9" alt="Tech Stack" />
 </p>
-
 
 </br>
 
@@ -49,9 +43,7 @@
 
 </br>
 
-
 ## 🏆 **GitHub Achievements**
-
 
 </br>
 <p align="center">
@@ -59,4 +51,4 @@
 </p>
 
 </br>
-<p align="center">🚀 Let's Connect & Build Cool Stuff Together! 🚀</p>
+<p align="center">⚡ Let's Automate, Deploy, and Scale the Cloud Together! ⚡</p>
