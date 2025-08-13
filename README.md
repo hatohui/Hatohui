@@ -1,5 +1,5 @@
 <h1 align="center">☁️ Hi, I'm Tuyen</h1>
-<h3 align="center" style="font-weight: 400; color: #6c757d;">Cloud & Platform Engineer in Training from Vietnam</h3>
+<h3 align="center" style="font-weight: 400; color: #6c757d;">Cloud & DevOps Engineer in Training from Vietnam</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hatohui&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
