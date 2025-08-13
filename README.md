@@ -25,7 +25,7 @@
 ## Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,kubernetes,docker,linux,bash,githubactions,git,dotnet,nodejs,react,ts,postgresql,graphql&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,kubernetes,docker,linux,bash,githubactions,git,dotnet,nodejs,react,nextjs,ts,postgresql,graphql&perline=8" alt="Tech Stack" />
 </p>
 
 
