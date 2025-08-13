@@ -1,4 +1,4 @@
-<h1 align="center">☁️ Hi, I'm Tuyen</h1>
+<h1 align="center">Hi, I'm Tuyen</h1>
 <h3 align="center" style="font-weight: 400; color: #6c757d;">Cloud & DevOps Engineer in Training from Vietnam</h3>
 
 <p align="center">
@@ -21,17 +21,15 @@
   <strong>Currently Learning:</strong> AWS, Terraform, Ansible, Kubernetes
 </p>
 
----
 
-## 🔧 Skills & Technologies
+## Skills & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,kubernetes,docker,linux,bash,githubactions,git,dotnet,nodejs,react,ts,postgresql,graphql&perline=8" alt="Tech Stack" />
 </p>
 
----
 
-## ☁️ Cloud & Platform Engineering Focus
+## Cloud & Platform Engineering Focus
 
 I design, automate, and optimize infrastructure for scalable, secure, and resilient systems.  
 Current focus areas:  
@@ -41,23 +39,21 @@ Current focus areas:
 - CI/CD automation using **GitHub Actions**  
 - Platform reliability, monitoring, and cost optimization  
 
----
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hatohui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hatohui&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
----
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hatohui&theme=darkhub&row=1&no-frame=true" alt="GitHub Trophies" />
 </p>
 
----
+</br>
 
 <p align="center">☁️ Let's Automate, Deploy, and Scale the Cloud Together! ☁️</p>
