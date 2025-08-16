@@ -34,7 +34,7 @@
 I design, automate, and optimize infrastructure for scalable, secure, and resilient systems.  
 Current focus areas:  
 - **AWS** cloud architecture & automation  
-- Infrastructure as Code with **Terraform** & **Ansible**  
+- Infrastructure as Code with **Terraform**
 - **Docker** containerization & **Kubernetes** orchestration  
 - CI/CD automation using **GitHub Actions**  
 - Platform reliability, monitoring, and cost optimization  
