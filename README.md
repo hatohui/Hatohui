@@ -17,17 +17,31 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Automating+Infrastructure;Optimizing+Cloud+Deployments;Scaling+Reliable+Systems" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  AWS, Terraform, Ansible, Kubernetes, Camunda, Azure
-</p>
+<h3 align="center">Cloud • DevOps • Enterprise Engineering</h3>
 
-
-## Skills & Technologies
+</br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,linux,bash,githubactions,git,dotnet,nodejs,react,nextjs,ts,postgresql,java,python&perline=8" alt="Tech Stack" />
+  <img 
+    src="https://img.shields.io/badge/Camunda-FC5D0D?style=for-the-badge&logo=camunda&logoColor=white" 
+    alt="Camunda"
+  />
+  <img 
+    src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" 
+    alt="Vault"
+  />
+  <img 
+    src="https://img.shields.io/badge/Taskfile-24B8EB?style=for-the-badge&logo=task&logoColor=white" 
+    alt="Taskfile"
+  />
 </p>
 
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare,terraform,kubernetes,docker,linux,githubactions,bash,git,spring,java,nodejs,postgresql,react,nextjs,ts,python,redis,rabbitmq,grafana,prometheus,nginx&perline=8" 
+    alt="Tech Stack"
+  />
+</p>
 
 ## Cloud & Platform Engineering Focus
 
