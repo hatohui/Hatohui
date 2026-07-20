@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Automating+Infrastructure;Optimizing+Cloud+Deployments;Scaling+Reliable+Systems" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Cloud • DevOps • Enterprise Engineering</h3>
+<h3 align="center">Cloud • DevOps • Full Stack Engineering</h3>
 
 </br>
 
