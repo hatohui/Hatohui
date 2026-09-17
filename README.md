@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Tuyen 👋</h1>
-<h3 align="center" style="font-weight: 400; color: #6c757d;">Software Engineer | Platform Engineering</h3>
+<h3 align="center" style="font-weight: 400; color: #6c757d;">Software Engineer from Vietnam 🇻🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hatohui&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Vietnamese-blue?style=flat-square" alt="Languages" />
   <img src="https://img.shields.io/badge/Interests-Cloud%20%26%20Platform%20Engineering-3D8BFF?style=flat-square" alt="Interests" />
 </p>
 
